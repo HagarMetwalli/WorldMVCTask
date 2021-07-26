@@ -1,0 +1,29 @@
+﻿@model IEnumerable<DataModel.Models.City>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="text-center text-success">Cities</h2>
+
+<p  style="margin:15px;">
+    @Html.ActionLink("Create New", "Create",null ,new {@class ="btn btn-success" })
+</p>
+<div class="row">
+    <div class="col-md-12">
+
+        <table id="citytbl" class="table">
+        </table>
+    </div>
+</div>
+@section Styles{
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="https://cdn.datatables.net/1.10.15/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.datatables.net/responsive/2.1.1/css/responsive.bootstrap.min.css" rel="stylesheet" />
+}
+@section Scripts{
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.15/js/dataTables.bootstrap4.min.js "></script>
+    <script src="~/Scripts/app/City.js"></script>
+}

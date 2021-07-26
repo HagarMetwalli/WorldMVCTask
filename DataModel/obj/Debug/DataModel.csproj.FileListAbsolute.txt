@@ -1,0 +1,12 @@
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\DataModel\bin\Debug\DataModel.dll
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\DataModel\bin\Debug\DataModel.pdb
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\DataModel\obj\Debug\DataModel.csproj.AssemblyReference.cache
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\DataModel\obj\Debug\DataModel.dll
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\DataModel\obj\Debug\DataModel.pdb
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\DataModel\bin\Debug\DataModel.dll.config
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\DataModel\bin\Debug\EntityFramework.dll
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\DataModel\bin\Debug\EntityFramework.xml
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\DataModel\obj\Debug\DataModel.csproj.CopyComplete

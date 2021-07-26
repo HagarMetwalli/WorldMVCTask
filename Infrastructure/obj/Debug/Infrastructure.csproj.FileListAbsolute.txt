@@ -1,0 +1,15 @@
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\bin\Debug\Infrastructure.dll.config
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\bin\Debug\Infrastructure.dll
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\bin\Debug\Infrastructure.pdb
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\bin\Debug\EntityFramework.dll
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\bin\Debug\EntityFramework.xml
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\obj\Debug\Infrastructure.csproj.AssemblyReference.cache
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\obj\Debug\Infrastructure.dll
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\obj\Debug\Infrastructure.pdb
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\bin\Debug\DataModel.dll
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\bin\Debug\DataModel.pdb
+E:\1ITI\tasks\WorldTaskMVC\World_MVC\WorldMVC\Infrastructure\bin\Debug\DataModel.dll.config
